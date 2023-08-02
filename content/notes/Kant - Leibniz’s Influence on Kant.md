@@ -1,5 +1,5 @@
 ---
-title: "Kant - Leibniz’s Influence on Kant"
+title: "Kant - Leibnizs Influence on Kant"
 tags:
 - internetContent
 - philosophy/kant

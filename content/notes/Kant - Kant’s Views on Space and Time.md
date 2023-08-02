@@ -1,5 +1,5 @@
 ---
-title: "Kant - Kant’s Views on Space and Time"
+title: "Kant - Kants Views on Space and Time"
 tags:
 - internetContent
 - philosophy/kant

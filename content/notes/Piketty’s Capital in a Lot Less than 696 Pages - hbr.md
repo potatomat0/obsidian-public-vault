@@ -1,5 +1,5 @@
 ---
-title: "Piketty’s Capital in a Lot Less than 696 Pages - hbr"
+title: "Pikettys Capital in a Lot Less than 696 Pages - hbr"
 tags:
 - internetContent
 - bookSummary
