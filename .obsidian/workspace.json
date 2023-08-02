@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/webnotes/Albert Camus's key concepts.md",
+                "file": "content/private/hosting.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/webnotes/Albert Camus's key concepts.md",
+                "file": "content/private/hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/webnotes/Albert Camus's key concepts.md"
+                "file": "content/private/hosting.md"
               }
             }
           },
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/webnotes/Albert Camus's key concepts.md",
+                "file": "content/private/hosting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,19 +156,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "7c850635005af8bf",
   "lastOpenFiles": [
+    "content/private/ignore notes.md",
+    "content/private/obsidian.md",
+    "content/private/philosophy.md",
+    "content/private/preview changes.md",
+    "content/private/search.md",
+    "content/private/setup.md",
+    "content/private/showcase.md",
+    "content/private/troubleshooting.md",
+    "content/private/updating.md",
+    "content/notes/webnotes/Albert Camus's key concepts.md",
     "content/notes/webnotes/Adding the lazy load effect for text in jekyll blog.md",
     "content/notes/webnotes/A Summary of Trigger By Marshall Goldsmith - lifeclub.md",
     "content/notes/webnotes/Coursera - Learning how to learn summary.md",
@@ -181,15 +187,6 @@
     "content/notes/webnotes/Argentina's Climate - wikipedia.md",
     "content/notes/webnotes/updateYAML.ps1",
     "content/notes/ignore notes.md",
-    "content/private/updating.md",
-    "content/private/troubleshooting.md",
-    "content/private/showcase.md",
-    "content/private/setup.md",
-    "content/private/search.md",
-    "content/private/preview changes.md",
-    "content/private/philosophy.md",
-    "content/private/obsidian.md",
-    "content/private/ignore notes.md",
     "content/private/hosting.md",
     "content/private/editing.md",
     "content/private/docker.md",
@@ -198,7 +195,6 @@
     "content/private/CJK + Latex Support (测试).md",
     "content/private/callouts.md",
     "content/notes/obsidian.md",
-    "content/notes/updating.md",
     "Templates",
     "content/notes/webnotes/Schopenhauer - Schopenhauer's Aesthetics.epub",
     "content/notes/webnotes/Schopenhauer - a brief introduction.epub",
