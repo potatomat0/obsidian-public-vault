@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/obsidian.md",
+                "file": "content/notes/updating.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/obsidian.md",
+                "file": "content/notes/updating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/obsidian.md"
+                "file": "content/notes/updating.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/obsidian.md",
+                "file": "content/notes/updating.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,11 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c850635005af8bf",
+  "active": "2e50657da4b7dbce",
   "lastOpenFiles": [
+    "notes/hosting.md",
+    "content/notes/obsidian.md",
+    "notes",
     "content/notes/setup.md",
     "content/notes/troubleshooting.md",
-    "content/notes/obsidian.md",
     "static/icon.png",
     "static",
     "assets/styles/_light_syntax.scss",
@@ -179,7 +181,6 @@
     "assets/styles/custom.scss",
     "assets/styles/code-title.scss",
     "assets/styles/clipboard.scss",
-    "assets/styles/base.scss",
     "content/private/hosting.md",
     "content/templates/post.md",
     "content/private/private-note.md",
