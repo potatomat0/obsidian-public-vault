@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/obsidian.md",
+                "file": "content/notes/setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "branch",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/obsidian.md",
+                "file": "content/notes/setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/obsidian.md"
+                "file": "content/notes/setup.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/obsidian.md",
+                "file": "content/notes/setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c850635005af8bf",
+  "active": "2e50657da4b7dbce",
   "lastOpenFiles": [
+    "content/notes/troubleshooting.md",
+    "content/notes/obsidian.md",
     "static/icon.png",
     "static",
     "assets/styles/_light_syntax.scss",
@@ -181,13 +183,11 @@
     "content/templates/post.md",
     "content/private/private-note.md",
     "content/notes/updating.md",
-    "content/notes/troubleshooting.md",
     "content/notes/showcase.md",
     "content/notes/setup.md",
     "content/notes/search.md",
     "content/notes/preview changes.md",
     "content/notes/philosophy.md",
-    "content/notes/obsidian.md",
     "content/notes/images/obsidian-settings.png",
     "content/notes/images/google-domains.png",
     "content/notes/images/github-pages.png",
