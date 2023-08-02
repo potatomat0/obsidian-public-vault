@@ -1,0 +1,11 @@
+{
+  "accentColor": "#9d80ff",
+  "cssTheme": "Shimmering Focus",
+  "theme": "obsidian",
+  "translucency": false,
+  "nativeMenus": false,
+  "baseFontSize": 26,
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Cambria",
+  "monospaceFontFamily": "Baskerville Old Face"
+}

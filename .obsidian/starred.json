@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "index",
+      "path": "index.canvas"
+    },
+    {
+      "type": "file",
+      "title": "CS Book list",
+      "path": "Study Notes/CS Book list.md"
+    }
+  ]
+}

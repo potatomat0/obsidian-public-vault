@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "cadb382238b7b315",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeadffc8b7bac4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c850635005af8bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5add68abf0f8073e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fb142f1f5a98c56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce760770daea49d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "2e50657da4b7dbce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96cdf79195db7121",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "962a8645f64164bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6afd8520d169b5fd",
+        "type": "tabs",
+        "dimension": 51.826484018264836,
+        "children": [
+          {
+            "id": "a8754bc09775031e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3dbd37acd64f7ced",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a46efcd563383676",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea18ead37eb5dc6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d91cccfb8db04356",
+        "type": "tabs",
+        "dimension": 48.173515981735164,
+        "children": [
+          {
+            "id": "3afe06c6de6d4f59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "7c850635005af8bf",
+  "lastOpenFiles": [
+    "Music Diary/Simulacra - Baudrillard.md",
+    "WebNotes/Michel Foucault.md",
+    "WebNotes/Michel Foucault's Discipline and Punish The Birth of the Prison Study Guide.md",
+    "WebNotes/Jean Baudrillard - plato stanford.md",
+    "WebNotes/Postmodernism key concepts.md",
+    "WebNotes/Critisisms of postmodernism - wikipedia.md",
+    "WebNotes/Baudrillard's Simulacra and Simulation.md",
+    "WebNotes/Baudrillard - The System of Objects.md",
+    "WebNotes/Postmodernist Mass Humor.md",
+    "WebNotes/Postmodern philosophy road map .md",
+    "WebNotes/Baudrillard - a brief introducion - thenandnow.md",
+    "WebNotes/Foucault - Madness & civilization.md",
+    "Journal/Jul 2023/2023-08-02.md",
+    "Study Notes/Study note 2023 Aug 02.md",
+    "WebNotes/The Problem With Human Rights - CCK Philosophy.md",
+    "WebNotes/Pre-emptive Defense Strategy.md",
+    "WebNotes/Marxism - Absolute equality is an unhelpful political goal.md",
+    "Idea/Naming Convention.md",
+    "WebNotes/David Foster Wallace's tips on writing.md",
+    "WebNotes/David Foster Wallace - The Problem With Irony.md",
+    "WebNotes/Marxism - Marx And Engels Were Not Egalitarians.md",
+    "WebNotes/Friedrich Wilhelm Nietzsche's Beyond Good and Evil Study Guide - Coursehero.md",
+    "WebNotes/Friedrich Wilhelm Nietzsche Thus Spoke Zarathustra Study Guide - Coursehero.md",
+    "WebNotes/Baruch Spinoza's Ethics Study Guide - Coursehero.md",
+    "WebNotes/Spinoza - A Brief Introduction - thenandnow.md",
+    "WebNotes/Moral Skepicism - plato stanford.md",
+    "WebNotes/Nietzsche - Moral and Political Philosophy.epub",
+    "WebNotes/Nietzsche - Life and work.epub",
+    "WebNotes/Nietzsche - a brief introduction.epub",
+    "WebNotes/Schopenhauer - Schopenhauer's Aesthetics.epub",
+    "WebNotes/Schopenhauer - a brief introduction.epub",
+    "WebNotes/Immanuel Kant - plato.stanford.edu.epub",
+    "WebNotes/Kant - Philosophy of science.epub",
+    "WebNotes/Kant - Philosophy Of Judgement.epub",
+    "WebNotes/Kant - Moral Philosophy.epub",
+    "WebNotes/Kant - Aesthetics and Teleology.epub",
+    "index.canvas",
+    "Pasted image 20230724202357.png",
+    "Untitled.canvas",
+    "Pasted image 20230418215306.png",
+    "Pasted image 20230414215252.png",
+    "Pasted image 20230402225427.png"
+  ]
+}

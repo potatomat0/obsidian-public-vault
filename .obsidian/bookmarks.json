@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "index.canvas",
+      "ctime": 1683120807721
+    },
+    {
+      "type": "file",
+      "ctime": 1690691456123,
+      "path": "Idea/Naming Convention.md"
+    },
+    {
+      "type": "file",
+      "path": "Study Notes/CS Book list.md",
+      "ctime": 1683120807721
+    },
+    {
+      "type": "folder",
+      "ctime": 1683121068662,
+      "path": "Journal"
+    },
+    {
+      "type": "file",
+      "ctime": 1689602345591,
+      "path": "Quick Capture.md",
+      "title": ""
+    },
+    {
+      "type": "file",
+      "ctime": 1690279255776,
+      "path": "WebNotes/Coursera - Learning how to learn summary.md",
+      "title": "Learning How to learn"
+    },
+    {
+      "type": "file",
+      "ctime": 1690541922372,
+      "path": "Idea/Philosophy dashboard.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1690542187398,
+      "path": "Idea/Self-taught computer science roadmap.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1690568350467,
+      "path": "Idea/To read and re-read list.md"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "baudrillard",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "music diary",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "journal",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "webNotes",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Idea",
+      "color": {
+        "a": 1,
+        "rgb": 13960703
+      }
+    },
+    {
+      "query": "People",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
+    },
+    {
+      "query": "#philosophy",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7911769279887183,
+  "close": false
+}
