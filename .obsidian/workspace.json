@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d347409bd08ab2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -93,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -110,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +177,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e50657da4b7dbce",
+  "active": "d347409bd08ab2a2",
   "lastOpenFiles": [
+    "Untitled.md",
     "notes/hosting.md",
     "content/notes/obsidian.md",
     "notes",
@@ -202,7 +221,6 @@
     "content/notes/webnotes/Adding the lazy load effect for text in jekyll blog.md",
     "content/notes/webnotes/A Summary of Trigger By Marshall Goldsmith - lifeclub.md",
     "content/notes/webnotes/Coursera - Learning how to learn summary.md",
-    "content/notes/webnotes/18 Elaborate coping mechanism for developers - Noboilerplate.md",
     "index.canvas",
     "Pasted image 20230724202357.png",
     "Untitled.canvas",
