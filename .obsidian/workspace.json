@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "089455f6bcc2993a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lữ Phương - Collected Essays.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lữ Phương - Collected Essays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -93,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lữ Phương - Collected Essays.md"
+              }
             }
           },
           {
@@ -110,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lữ Phương - Collected Essays.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +176,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c5f8e898177be0d",
+  "active": "089455f6bcc2993a",
   "lastOpenFiles": [
+    "Lữ Phương - Collected Essays.md",
     "Anarchopac - selected essays.md",
     "Anarchopac - selected essays.epub",
     "notes/hosting.md",
