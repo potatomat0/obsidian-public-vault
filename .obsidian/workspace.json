@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df44415695a4ad51",
+        "id": "ec6b379a1142b7f5",
         "type": "tabs",
         "children": [
           {
-            "id": "6c5f8e898177be0d",
+            "id": "ec760d7860b9596e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,25 +16,12 @@
             }
           },
           {
-            "id": "089455f6bcc2993a",
+            "id": "13f790b676fda35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lữ Phương - Collected Essays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91f09634f28f0e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lữ Phương - Critical Essays.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lữ Phương - Critical Essays.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lữ Phương - Critical Essays.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -141,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lữ Phương - Critical Essays.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,11 +177,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91f09634f28f0e22",
+  "active": "13f790b676fda35f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Lữ Phương - Collected Essays.md",
-    "Lữ Phương - Critical Essays.md",
     "Lữ Phương - Collected Essays.epub",
+    "Lữ Phương - Critical Essays.md",
+    "Lữ Phương - Critical Essays.epub",
     "Anarchopac - selected essays.md",
     "Anarchopac - selected essays.epub",
     "notes/hosting.md",
@@ -209,7 +198,6 @@
     "assets/styles/_callouts.scss",
     "assets/styles/syntax.scss",
     "assets/styles/darkmode.scss",
-    "assets/styles/custom.scss",
     "content/private/hosting.md",
     "content/templates/post.md",
     "content/private/private-note.md",
@@ -233,7 +221,6 @@
     "content/private/troubleshooting.md",
     "content/private/updating.md",
     "content/notes/webnotes/Albert Camus's key concepts.md",
-    "content/notes/webnotes/Adding the lazy load effect for text in jekyll blog.md",
     "index.canvas",
     "Pasted image 20230724202357.png",
     "Untitled.canvas",
