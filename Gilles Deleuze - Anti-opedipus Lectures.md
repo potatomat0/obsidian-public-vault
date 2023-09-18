@@ -1229,7 +1229,3 @@ We ought to interpret these coordinate systems in terms of intensity; in other w
 [6](https://deleuze.cla.purdue.edu/lecture/lecture-09-7/#_ednref6) Literally, when the _marché_ no longer _marches_.
 
 ___
-# Anti-Oedipus II: Lecture 1
-
->There is all this at the same time on the body without organs: the paranoid position of the mass, the schizo position of the pack, and I mean: packs, masses, all these types of multiplicity. The unconscious is the art of multiplicities; it is a way of saying that psychoanalysis understands nothing about anything since it has always treated the unconscious from the point of view of an art of units: father, mother, castration. Whenever psychoanalysts are faced with multiplicities — we have seen it about the Wolf Man for Freud — it is a question of denying that there are any multiplicities.
-
