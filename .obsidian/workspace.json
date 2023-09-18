@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gilles Deleuze's A Thousand Plateaus Lectures.md",
+                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "962a8645f64164bb",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gilles Deleuze's A Thousand Plateaus Lectures.md",
+                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gilles Deleuze's A Thousand Plateaus Lectures.md"
+                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gilles Deleuze's A Thousand Plateaus Lectures.md",
+                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +179,13 @@
   },
   "active": "2e48316ec1178f37",
   "lastOpenFiles": [
-    "Gilles Deleuze - Anti-Oedipus Lectures.epub",
-    "Gilles Deleuze - Anti-opedipus Lectures.md",
+    "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.epub",
+    "content/notes/Gilles Deleuze - Anti-opedipus Lectures.md",
+    "content/notes/Gilles Deleuze - Anti-opedipus Lectures.epub",
     "Gilles Deleuze's A Thousand Plateaus Lectures.md",
+    "Gilles Deleuze - Anti-opedipus Lectures.md",
+    "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
+    "Gilles Deleuze - Anti-Oedipus Lectures.epub",
     "Gilles Deleuze - Anti-opedipus Lectures.epub",
     "Philosophy 300 Reading Assignment.md",
     "Philosophy 300 Reading Assignment.epub",
@@ -201,8 +204,6 @@
     "static/icon.png",
     "static",
     "assets/styles/_light_syntax.scss",
-    "assets/styles/_dark_syntax.scss",
-    "assets/styles/_callouts.scss",
     "content/private/hosting.md",
     "content/templates/post.md",
     "content/private/private-note.md",
@@ -220,8 +221,6 @@
     "content/private/obsidian.md",
     "content/private/philosophy.md",
     "content/private/preview changes.md",
-    "content/private/search.md",
-    "content/private/setup.md",
     "index.canvas",
     "Pasted image 20230724202357.png",
     "Untitled.canvas",
