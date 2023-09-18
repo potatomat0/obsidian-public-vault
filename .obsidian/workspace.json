@@ -16,30 +16,20 @@
             }
           },
           {
-            "id": "33e13df69f07739c",
+            "id": "292d85dfca8c4b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy 300 Reading Assignment.md",
+                "file": "Gilles Deleuze - Anti-opedipus Lectures.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5bd90df041c21e94",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy 300 Reading Assignment.md",
+                "file": "Gilles Deleuze - Anti-opedipus Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy 300 Reading Assignment.md"
+                "file": "Gilles Deleuze - Anti-opedipus Lectures.md"
               }
             }
           },
@@ -138,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy 300 Reading Assignment.md",
+                "file": "Gilles Deleuze - Anti-opedipus Lectures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +187,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5bd90df041c21e94",
+  "active": "292d85dfca8c4b11",
   "lastOpenFiles": [
-    "Philosophy 300 Reading Assignment.epub",
+    "Gilles Deleuze - Anti-opedipus Lectures.md",
     "Philosophy 300 Reading Assignment.md",
+    "Philosophy 300 Reading Assignment.epub",
     "Ethic Study.md",
     "Lữ Phương - Collected Essays.md",
     "Lữ Phương - Collected Essays.epub",
@@ -219,7 +210,6 @@
     "assets/styles/_dark_syntax.scss",
     "assets/styles/_callouts.scss",
     "assets/styles/syntax.scss",
-    "assets/styles/darkmode.scss",
     "content/private/hosting.md",
     "content/templates/post.md",
     "content/private/private-note.md",
