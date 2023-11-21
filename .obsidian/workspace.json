@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12bde602466ff34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ôn cấu trúc máy tính.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "962a8645f64164bb",
@@ -88,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
+                "file": "Ôn cấu trúc máy tính.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -100,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md"
+                "file": "Ôn cấu trúc máy tính.md"
               }
             }
           },
@@ -118,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
+                "file": "Ôn cấu trúc máy tính.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,14 +193,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e48316ec1178f37",
+  "active": "12bde602466ff34a",
   "lastOpenFiles": [
+    "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
+    "Ôn cấu trúc máy tính.md",
     "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.epub",
     "content/notes/Gilles Deleuze - Anti-opedipus Lectures.md",
     "content/notes/Gilles Deleuze - Anti-opedipus Lectures.epub",
     "Gilles Deleuze's A Thousand Plateaus Lectures.md",
     "Gilles Deleuze - Anti-opedipus Lectures.md",
-    "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
     "Gilles Deleuze - Anti-Oedipus Lectures.epub",
     "Gilles Deleuze - Anti-opedipus Lectures.epub",
     "Philosophy 300 Reading Assignment.md",
@@ -203,7 +220,6 @@
     "content/notes/troubleshooting.md",
     "static/icon.png",
     "static",
-    "assets/styles/_light_syntax.scss",
     "content/private/hosting.md",
     "content/templates/post.md",
     "content/private/private-note.md",
