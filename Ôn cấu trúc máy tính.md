@@ -85,6 +85,21 @@ ieee754-1995 = 1 cell of sign + 8 cell of exponents + 23 cells of Mantissa
 
 [4 variables](http://www.32x8.com/var4.html)
 
+grouping rules: 
+
+[Karnaugh Maps - Rules of Simplification (umd.edu)](http://www2.physics.umd.edu/~drew/spr07/Karnaugh%20Maps%20-%20Rules%20of%20Simplification.htm#:~:text=Groups%20may%20be%20horizontal%20or,1's%20since%2021%20%3D%202.)
+
+1. No zeros allowed.
+2. No diagonals.
+3. Only power of 2 number of cells in each group.
+4. Groups should be as large as possible.
+5. Every one must be in at least one group.
+6. Overlapping allowed.
+7. Wrap around allowed.
+8. Fewest number of groups possible.
+
+
+
 ## Phép tính số bù
 
 VD: (214)8 - c7(16)
