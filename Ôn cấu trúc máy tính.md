@@ -15,3 +15,16 @@ Cộng trừ nhân chia các số hệ nhị phân
 ## tính số overflow và tính theo hệ 32bit
 
 ## vẽ mạch và tính bản đồ karnaugh 
+
+
+## ôn  tập đề
+
+giải thích các bước:
+
+- tính các phép tính bù 2 
+
+- tính hệ số ieee753
+
+- tính bản đồ karnaugh 4 biến 
+
+- vẽ mạch logic từ hàm rút gọn 
