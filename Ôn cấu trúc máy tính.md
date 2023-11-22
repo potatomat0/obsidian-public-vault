@@ -38,25 +38,18 @@ b2. tìm 8 cell tiếp theo
 83/2 =  41  left 1
 41/2 = 20   left 1
 20/2 = 10   left 0
-10/2 = 5     left 1
+10/2 = 5     left 0
 5/2 =   2      left 1
+2/2 = 0        left 0 
 1/2 =   0       left 1 
 ```
-167 = 1110111 => E = 127+6 = 133 
+167 = 10100111 => E = 127+7 = 134 
 
 8 cell tiếp theo là dạng nhị phân của 133 
 
 133 = 
 
 ```
-133/2 = 66 left 1
-66/2 = 33 left 0
-33/2 = 16 left 1
-16/2 = 8 left 0 
-8/2 = 4 left 0 
-4/2 = 2 left 0
-2/2 = 1 left 0
-1/2 = 0 left 1
 
 ```
 
@@ -67,14 +60,20 @@ b2. tìm 8 cell tiếp theo
 0.75 =
 ```
 75*2 = 1.5 leave out 1
-0.5*2 = 1 leave out 0
-0*2 = 0 leave out 0
+0.5*2 = 1.0 leave out 1
 ```
-0.75 = .100
+0.75 = .11
 
 b3 phần thập phân và phần số nguyên lại cho 23 cell cuối cùng
 
-1.110111100 x2^7
+1.010011111 x2^7
+
+b4 ráp toàn bộ các cell lại 
+
+```
+ieee754-1995 = 1 cell of sign + 8 cell of exponents + 23 cells of Mantissa
+0 10000101 1010011111 000000000000000000
+```
 
 ## vẽ mạch và tính bản đồ karnaugh 
 
