@@ -98,7 +98,12 @@ grouping rules:
 7. Wrap around allowed.
 8. Fewest number of groups possible.
 
-
+```
+1001
+1001
+1001
+1001
+```
 
 ## Phép tính số bù
 
