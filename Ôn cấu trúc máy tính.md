@@ -25,12 +25,12 @@ Cộng trừ nhân chia các số hệ nhị phân
 
 ví dụ: 167.75
 
-b1. tìm cell thứ nhất
+###  b1. tìm cell thứ nhất (sign)
 ta có 32 cell, cell thứ nhất biểu diễn cho số đó là dương hay âm
 
 167 là dương, suy ra cell thứ nhất là: 0
 
-b2. tìm 8 cell tiếp theo
+### b2. tìm 8 cell tiếp theo (exponent)
 
 167 = 
 ```
@@ -47,15 +47,21 @@ b2. tìm 8 cell tiếp theo
 
 8 cell tiếp theo là dạng nhị phân của 133 
 
-133 = 
+134 = 
+
+```
+134/2 = 67 left 0
+67/2 = 33   left 1
+33/2 = 16   left 1 
+16/2 = 8    left 0 
+8/2 = 4      left 0 
+4/2 = 2      left 0 
+2/2 = 1      left 0
+1/2 = 0      left 1
 
 ```
 
-```
-
-133 = 10000101 
-
-
+134 = 10000110
 
 0.75 =
 ```
@@ -64,15 +70,15 @@ b2. tìm 8 cell tiếp theo
 ```
 0.75 = .11
 
-b3 phần thập phân và phần số nguyên lại cho 23 cell cuối cùng
+### b3 phần thập phân và phần số nguyên lại cho 23 cell cuối cùng
 
-1.010011111 x2^7
+167.75 = 10100111.11 = 1.010011111 x2^7 = (bỏ số đầu đi) 010011111
 
 b4 ráp toàn bộ các cell lại 
 
 ```
 ieee754-1995 = 1 cell of sign + 8 cell of exponents + 23 cells of Mantissa
-0 10000101 1010011111 000000000000000000
+=>0 10000110 1010011111 000000000000000000
 ```
 
 ## vẽ mạch và tính bản đồ karnaugh 
@@ -83,24 +89,24 @@ ieee754-1995 = 1 cell of sign + 8 cell of exponents + 23 cells of Mantissa
 
 VD: (214)8 - c7(16)
 
-b1: chuyển đổi cả hai hệ sang số nhị phân 
+### b1: chuyển đổi cả hai hệ sang số nhị phân 
 
  214(8) = 2 | 1 | 8 = 010 001 100 = 10 001 100
  c7 (16) = c | 7 = 1100 0111
 
-b2: tính số bù 2 của số bị trừ 
+### b2: tính số bù 2 của số bị trừ 
 
  b2.1: đảo ngược bit: 
 	 1100 0111 = 0011 1000
  b2.2: thêm 1 vào số đã bị đảo ngược (vẫn áp dụng overflow như thường) 
 	0011 1000 + 1 = 0011 1001
 
-b3: cộng số thứ nhất với số bù 2
+### b3: cộng số thứ nhất với số bù 2
  
  10001100+00111001= 11000101
  (kết quả bắt đầu bằng số 1, suy ra đây là số âm)
 
-b4: tính số bù 2 của kết quả b3 (bit cuối không áp dụng số nhớ)
+### b4: tính số bù 2 của kết quả b3 (bit cuối không áp dụng số nhớ)
 
  `11000101 = 00111011 `
  
