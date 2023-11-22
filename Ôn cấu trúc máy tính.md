@@ -23,6 +23,21 @@ Cộng trừ nhân chia các số hệ nhị phân
 
 ## tính số overflow và tính theo hệ 32bit / iee756-1995
 
+ví dụ: 167.75
+
+167 = 
+```
+167/2 = 83 left 1
+83/2 =  41  left 1
+41/2 = 20   left 1
+20/2 = 10   left 0
+10/2 = 5     left 1
+5/2 =   2      left 1
+1/2 =   0       left 1 
+```
+167 = 1110111
+
+
 ## vẽ mạch và tính bản đồ karnaugh 
 
 [4 variables](http://www.32x8.com/var4.html)
@@ -50,11 +65,14 @@ b3: cộng số thứ nhất với số bù 2
 
 b4: tính số bù 2 của kết quả b3 (bit cuối không áp dụng số nhớ)
 
- 11000101 = 00111011 
+ `11000101 = 00111011 `
+ 
+>Suy ra kết quả là: 00111011 = -3B(16)
 
-Suy ra kết quả là: 00111011 = -3B(16)
 Kiểm tra lại bằng thập phân: 
-
-214(8) = 2.8^2 + 1^8^1 + 4x8^0 = 128 + 8 + 4 = 140
-C7 = 12.16^1 + 7..16^0
-  
+```
+ 214(8) = 2.8^2 + 1^8^1 + 4x8^0 = 128 + 8 + 4 = 140
+ C7 = 12.16^1 + 7.16^0 = 192 + 7 = 199
+ 140-199 = -59
+ 
+``` 
