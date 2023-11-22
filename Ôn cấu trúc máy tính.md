@@ -28,3 +28,35 @@ giải thích các bước:
 - tính bản đồ karnaugh 4 biến 
 
 - vẽ mạch logic từ hàm rút gọn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(214)8 - c7(16)
+
+b1: chuyển đổi cả hai hệ sang số nhị phân 
+
+ 214(8) = 2 | 1 | 8 = 010 001 100 = 10 001 100
+ c7 (16) = c | 7 = 1100 0111
+
+b2: tính số bù 2 của số bị trừ 
+
+ b2.1: đảo ngược bit: 
+	 1100 0111 = 0011 1000
+ b2.2: thêm 1 vào số đã bị đảo ngược (vẫn áp dụng overflow như thường) 
+	0011 1000 + 1 = 0011 1001
+
+b3: cộng số thứ nhất với số bù 2
+ 
+ 10
