@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ec6b379a1142b7f5",
+        "id": "02eb3452d17f96ee",
         "type": "tabs",
         "children": [
           {
-            "id": "2e48316ec1178f37",
+            "id": "6ad5fa72b90fcc9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12bde602466ff34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ôn cấu trúc máy tính.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac0edfb0902073d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,12 +169,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fac0edfb0902073d",
+  "active": "6ad5fa72b90fcc9d",
   "lastOpenFiles": [
+    "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
     "Ôn cấu trúc máy tính.md",
     "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
+    "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.epub",
     "Ôn cấu trúc máy tính.epub",
-    "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
     "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.epub",
     "content/notes/Gilles Deleuze - Anti-opedipus Lectures.md",
     "content/notes/Gilles Deleuze - Anti-opedipus Lectures.epub",
@@ -229,7 +194,6 @@
     "Anarchopac - selected essays.epub",
     "notes/hosting.md",
     "content/notes/obsidian.md",
-    "notes",
     "content/notes/setup.md",
     "content/notes/troubleshooting.md",
     "static/icon.png",
@@ -248,7 +212,6 @@
     "content/notes/images/fork.png",
     "content/private/ignore notes.md",
     "content/private/obsidian.md",
-    "content/private/philosophy.md",
     "index.canvas",
     "Pasted image 20230724202357.png",
     "Untitled.canvas",
