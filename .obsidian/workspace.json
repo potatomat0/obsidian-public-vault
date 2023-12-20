@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fac0edfb0902073d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ôn cấu trúc máy tính.md",
+                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ôn cấu trúc máy tính.md"
+                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ôn cấu trúc máy tính.md",
+                "file": "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,11 +206,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "12bde602466ff34a",
+  "active": "fac0edfb0902073d",
   "lastOpenFiles": [
+    "Ôn cấu trúc máy tính.md",
+    "Đào Trung Đạo - Triết Học Không Triết Học Của Deleuze.md",
     "Ôn cấu trúc máy tính.epub",
     "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.md",
-    "Ôn cấu trúc máy tính.md",
     "content/notes/Gilles Deleuze's A Thousand Plateaus Lectures.epub",
     "content/notes/Gilles Deleuze - Anti-opedipus Lectures.md",
     "content/notes/Gilles Deleuze - Anti-opedipus Lectures.epub",
@@ -220,7 +234,6 @@
     "content/notes/setup.md",
     "content/notes/troubleshooting.md",
     "static/icon.png",
-    "static",
     "content/private/hosting.md",
     "content/templates/post.md",
     "content/private/private-note.md",
